@@ -5,7 +5,16 @@
 }
 @import "./song";
 @import "./player";
+@import "./library";
 
+body{
+font-family: 'Lato', sans-serif;;
+}
+
+h3,h4{
+  font-weight: 400;
+  color: rbg(100,100,100);
+}
 h1,h2,h3{
   color: rgb(54,54,54);
 }
